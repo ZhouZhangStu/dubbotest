@@ -10,6 +10,8 @@ public class Provider {
         System.out.println("aaaa");
 
         System.out.println("新分支");
+
+        System.out.println("bbb");
         System.in.read();
     }
 }
